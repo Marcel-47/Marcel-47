@@ -6,10 +6,10 @@ My work sits at the intersection of embedded systems, industrial automation, and
 
 ---
 
-## 🔧 What I'm Working On
+## 🔧 What I'm Working On Right Now
 
 - **Real-time 3D object tracking** using a ZED stereo camera and AI on Jetson hardware — combining computer vision, depth estimation, and embedded deployment
-- **Industrial tooling** for container crane systems, including spreader simulation and information display infrastructure (C#, Python)
+- **Database management, visualization and usage tool** for repairman at the container terminal working with container cranes (PHP, Apache, MySQL)
 - **Automation scripts** for backup and database management (Python, SQL)
 
 > Some of my repositories are private due to my work contract with Eurogate. The projects listed here represent what I'm able to share publicly.
@@ -18,7 +18,7 @@ My work sits at the intersection of embedded systems, industrial automation, and
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C · C# · Assembly language · MATLAB · Structured Text
+**Languages:** Python · C · C# · Assembly language · SQL · MATLAB · Structured Text
 **Frameworks:** .NET · Qt
 **Tools & Platforms:** Git · Claude Code
 
