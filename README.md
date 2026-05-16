@@ -17,9 +17,9 @@ My work sits at the intersection of embedded systems, industrial automation, and
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C · C# · Assembly language · SQL · MATLAB · Structured Text
-**Frameworks:** .NET · Qt
-**Tools & Platforms:** Git · Claude Code
+- **Languages:** Python · C · C# · Assembly language · SQL · MATLAB · Structured Text
+- **Frameworks:** .NET · Qt
+- **Tools & Platforms:** Git · Claude Code
 
 ---
 
