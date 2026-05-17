@@ -10,8 +10,6 @@ My work sits at the intersection of embedded systems, industrial automation, and
 
 - **Real-time 3D object tracking** using a ZED stereo camera and AI on Jetson hardware — combining computer vision, depth estimation, and embedded deployment (Python)
 
-> Some of my repositories are private due to my work contract with Eurogate. The projects listed here represent what I'm able to share publicly.
-
 ---
 
 ## 🛠️ Tech Stack
