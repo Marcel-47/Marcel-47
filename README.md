@@ -8,7 +8,7 @@ My work sits at the intersection of embedded systems, industrial automation, and
 
 ## 🔧 What I'm Working On Right Now
 
-- **Real-time 3D object tracking** using a ZED stereo camera and AI on Jetson hardware and combining computer vision, depth estimation, and embedded deployment (Python)
+- **Check out the [Real-time 3D object tracking]([https://github.com/marcel/my-other-repo](https://github.com/Marcel-47/zed-object-tracker))** using a ZED stereo camera and AI on Jetson hardware and combining computer vision, depth estimation, and embedded deployment (Python)
 
 ---
 
